@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Ignacio González </h1> 💻🚀
+<h1 align="center">Hola 👋, Soy Ignacio González 💻🚀</h1> 
 <h3 align="center">Desarrollador Fullstack (MERN)</h3>
 
 <h3 align="left">Redes:</h3>
