@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Ignacio González 💻🚀</h1> 
 
- <img width="100%"    src="https://i.imgur.com/b1JPjQe.png"  />
+ <img width="50%"    src="https://i.imgur.com/b1JPjQe.png"  />
  
  
 
