@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Ignacio González 💻🚀</h1> 
 
-![Fullstack Developer](https://imgur.com/b1JPjQe)
+ 
 
  
 
