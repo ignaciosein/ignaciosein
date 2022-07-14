@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Ignacio González 💻🚀</h1> 
 
  
-
+<img src="https://imgur.com/b1JPjQe" />
  
 
 <h3 align="left">Redes:</h3>
