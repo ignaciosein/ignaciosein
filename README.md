@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Ignacio González 💻🚀</h1> 
 
- <h3  >fullstack Developer (MERN)</h3>
+ <img width="50%"  style="margin-left:25%"  src="https://i.imgur.com/b1JPjQe.png"  />
  
  
 
