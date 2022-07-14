@@ -1,5 +1,8 @@
 <h1 align="center">Hola 👋, Soy Ignacio González 💻🚀</h1> 
-<h3 align="center">Desarrollador Fullstack (MERN)</h3>
+
+![Fullstack Developer](https://imgur.com/b1JPjQe)
+
+ 
 
 <h3 align="left">Redes:</h3>
 <p align="left">
